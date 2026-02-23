@@ -47,7 +47,7 @@ python model.py \
 
 ## Team
 
-- Ben Vaziritabar — Cardiff University
+- ben.
 
 ## License
 
